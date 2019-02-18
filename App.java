@@ -16,7 +16,7 @@ public class App
     System.out.println("----------------------------------------------------------");
     System.out.println("-----------                                     ----------");  
     System.out.println("-----------     THIS IS A LIFE HACK             ----------");
-    System.out.println("-----------                                     ----------"); //like **ssy!
+    System.out.println("-----------     telegram @daradals              ----------"); //like **ssy!
     System.out.println("-----------     Distributore Lattine            ----------");
     System.out.println("----------------------------------------------------------");
     System.out.println("1) Inserisci Gettone");
@@ -35,7 +35,7 @@ public class App
   {
     case 1:
            System.out.println("Inserisci il/i gettone/i: ");
-           gettone = ngettone.nextInt(); // //input integer number from keyboard for gettone
+           gettone = ngettone.nextInt(); //input integer number from keyboard for gettone
            distributore.InserisciGettone(gettone);
            System.out.println("Hai aggiunto: "+gettone+" gettone/i");
            System.out.println();
