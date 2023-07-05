@@ -16,7 +16,7 @@ public class App
     System.out.println("----------------------------------------------------------");
     System.out.println("-----------                                     ----------");  
     System.out.println("-----------     THIS IS A LIFE HACK             ----------");
-    System.out.println("-----------     telegram @daradals              ----------"); //like **ssy!
+    System.out.println("-----------                                     ----------"); 
     System.out.println("-----------     Distributore Lattine            ----------");
     System.out.println("----------------------------------------------------------");
     System.out.println("1) Inserisci Gettone");
